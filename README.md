@@ -60,24 +60,25 @@ For Software:
 <br>export HUGGINGFACE_MODEL_REPO=YOUR_MODEL_REPO<br>
 
 # Run
-streamlit run file_name.py
+streamlit run app.py
 
 ### Project Documentation
 For Software:   MedBot is a conversational AI-powered chatbot that provides accurate and reliable medical information to users through a user-friendly interface, leveraging natural language processing, medical databases, and Hugging Face Transformers, with the goal of enhancing healthcare accessibility and user experience.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![hello interface](screen1.jpeg)
+Shows the begining of interface of our chatbot.The basic hi hello response is shown.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![common symptoms and suggestions](screen.jpeg)
+Asking the bot queries about symptoms and basic medicine suggestions.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![common symptoms and suggestions](screen3.jpeg)
+The similar queries to earlier.
 
 # Diagrams
-!
-*Add caption explaining your workflow*
+![Workflow diagram](flowchart.jpeg)
+
+Demonstrates the backend and flow of program.
 
 
 # Video
