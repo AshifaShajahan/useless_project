@@ -73,16 +73,16 @@ Shows the begining of interface of our chatbot.The basic hi hello response is sh
 Asking the bot queries about symptoms and basic medicine suggestions.
 
 ![common symptoms and suggestions](screen3.jpeg)
-The similar queries to earlier.
+<br>The similar queries to earlier.<br>
 
 # Diagrams
-![Workflow diagram](flowchart.jpeg)
+![Workflow diagram](flowdiagram.jpeg)
+<br>Demonstrates the backend and flow of program.<br>
 
-Demonstrates the backend and flow of program.
-
-
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+# Video[
+(https://drive.google.com/file/d/1XwN-FafpUY9Q33RgKiNf7_KqSeVl-ArN/view?usp=drivesdk)
 
 # Team Contributions
+Akshay   -   Build the backend,trained AI Models and curated Medical Databases.
+<br>Ashifa   - Build Medbot Interface,Managed project timeline and Github repository.<br>
+Shared Responsibilities   : Collaboration,Testing and Documentation
