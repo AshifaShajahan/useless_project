@@ -15,7 +15,7 @@ MedBot is an innovative AI-powered medical conversational assistant designed to 
 with a user-friendly interface to interact with a medical expert-like assistant.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Medical chatbots are so bored with sensible questions, they're starting to think humans have lost their ability to ask ridiculous, Google-worthy questions.Also because self-diagnosis is the new national pastime.
 
 ### The Solution (that nobody asked for)
 Introducing "MedBot: The Absurdity Generator"!
@@ -63,7 +63,7 @@ For Software:
 streamlit run file_name.py
 
 ### Project Documentation
-For Software:
+For Software:   MedBot is a conversational AI-powered chatbot that provides accurate and reliable medical information to users through a user-friendly interface, leveraging natural language processing, medical databases, and Hugging Face Transformers, with the goal of enhancing healthcare accessibility and user experience.
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -76,7 +76,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+!
 *Add caption explaining your workflow*
 
 
